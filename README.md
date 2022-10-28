@@ -2,7 +2,7 @@
 - Trabalho feito individual.
 - Utilizando DTO
 
-## Exibindo as mensagens, todos os campos menos phone são obrigatórios:
+## Exibindo as mensagens, todos os campos (menos phone) são obrigatórios:
 
 **Exemplo sem o phone** 
 - <img width="570" alt="image" src="https://user-images.githubusercontent.com/88688542/198749210-d09ef2b7-b11e-4540-a3a3-16564a48c456.png">
