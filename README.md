@@ -4,11 +4,14 @@
 
 -Exiba as mensagens adequadas, todos os campos menos phone são obrigatórios:
 
-**Exemplo sem o phone** <img width="570" alt="image" src="https://user-images.githubusercontent.com/88688542/198749210-d09ef2b7-b11e-4540-a3a3-16564a48c456.png">
+**Exemplo sem o phone** 
+- <img width="570" alt="image" src="https://user-images.githubusercontent.com/88688542/198749210-d09ef2b7-b11e-4540-a3a3-16564a48c456.png">
 
-**Exemplo com o phone** <img width="572" alt="image" src="https://user-images.githubusercontent.com/88688542/198749409-233180e1-c85b-4800-94fd-223922b01192.png">
+**Exemplo com o phone** 
+- <img width="572" alt="image" src="https://user-images.githubusercontent.com/88688542/198749409-233180e1-c85b-4800-94fd-223922b01192.png">
 
-**Exemplo erro** <img width="594" alt="image" src="https://user-images.githubusercontent.com/88688542/198749534-09eaf8e1-3005-40f1-b794-20c5187ef925.png">
+**Exemplo erro** 
+- <img width="594" alt="image" src="https://user-images.githubusercontent.com/88688542/198749534-09eaf8e1-3005-40f1-b794-20c5187ef925.png">
 
 
 
