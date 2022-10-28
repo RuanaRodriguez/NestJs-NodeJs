@@ -1,6 +1,6 @@
 # Trabalho individual - Utilizando DTO
 - Trabalho feito individual.
-- Utilizando DTO
+- Utilizando DTO 
 
 ## Exibindo as mensagens, todos os campos (menos phone) são obrigatórios:
 
@@ -12,7 +12,6 @@
 
 **Exemplo error** 
 - <img width="594" alt="image" src="https://user-images.githubusercontent.com/88688542/198749534-09eaf8e1-3005-40f1-b794-20c5187ef925.png">
-
 
 
 
