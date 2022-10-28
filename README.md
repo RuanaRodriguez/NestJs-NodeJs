@@ -10,7 +10,7 @@
 **Exemplo com o phone** 
 - <img width="572" alt="image" src="https://user-images.githubusercontent.com/88688542/198749409-233180e1-c85b-4800-94fd-223922b01192.png">
 
-**Exemplo erro** 
+**Exemplo error** 
 - <img width="594" alt="image" src="https://user-images.githubusercontent.com/88688542/198749534-09eaf8e1-3005-40f1-b794-20c5187ef925.png">
 
 
